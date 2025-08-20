@@ -26,6 +26,7 @@ html_sidebars = { '**': ['localtoc.html', 'relations.html', 'sourcelink.html', '
 smv_tag_whitelist = r'^.*$'
 smv_branch_whitelist = r'^(main|jazzy|humble|test)$'
 smv_outputdir_format = '{ref.name}'
+html_baseurl = './docs/'
 
 
 
